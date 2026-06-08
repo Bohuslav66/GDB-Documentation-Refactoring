@@ -9,6 +9,7 @@ Program to debug
 #### List of commands used:
 [Commands](https://github.com/Bohuslav66/GDB-Documentation-Refactoring/blob/main/Commands.md)
 
+## Step by Step of fixing the example code
 1. To see how the *changequote* works, set a breakpoint at the relevant subroutine.
 	```
  	(gdb) break m4_changequote
